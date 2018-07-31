@@ -8,4 +8,8 @@
 [Coercion in JS](https://stackoverflow.com/questions/19915688/what-exactly-is-type-coercion-in-javascript) <br>
 [Comparison Operators in JS (Coercion)](https://www.udemy.com/understand-javascript/learn/v4/t/lecture/2237496?start=0) <br>
 [Equality vs Strict Equality in js](https://stackoverflow.com/questions/359494/which-equals-operator-vs-should-be-used-in-javascript-comparisons?noredirect=1&lq=1) <br>
-[Equality table, comparison bw Equality, Strict Equality and Object.is](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness)
+[Equality table, comparison bw Equality, Strict Equality and Object.is](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness) <br>
+[When to use Coercion](https://www.udemy.com/understand-javascript/learn/v4/t/lecture/2237498?start=0) <br>
+[Coercion, another use case](https://www.udemy.com/understand-javascript/learn/v4/t/lecture/2237500?start=0) <br>
+[How frameworks use default values](https://www.udemy.com/understand-javascript/learn/v4/t/lecture/2237502?start=0) <br>
+
