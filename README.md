@@ -48,3 +48,7 @@ JSON is inspired by JavaScript Object Literal. <br>
 `setTimeout  asynchronous in that it breaks the synchronous flow, but it's not actually going to execute concurrently/on a separate thread.` <br>
 [setTimeout using closures](https://stackoverflow.com/questions/19626680/is-settimeout-a-good-solution-to-do-async-functions-with-javascript)
 
+### Object Oriented JS
+[Classical VS Prototypal Inheritance](https://www.udemy.com/understand-javascript/learn/v4/t/lecture/2237552?start=0) <br>
+[Function Constructors](https://www.udemy.com/understand-javascript/learn/v4/t/lecture/2237568?start=0)
+
