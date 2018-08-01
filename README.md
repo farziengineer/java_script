@@ -23,3 +23,16 @@ JSON is inspired by JavaScript Object Literal. <br>
 [First class functions](https://stackoverflow.com/questions/705173/what-is-meant-by-first-class-object) <br>
 [Functions are Objects in JS](https://www.udemy.com/understand-javascript/learn/v4/t/lecture/2237520?start=0) <br>
 [Function statements and expressions](https://www.udemy.com/understand-javascript/learn/v4/t/lecture/2237524?start=0) <br>
+[Javascript Pass by value and Pass by Reference](https://stackoverflow.com/questions/7744611/pass-variables-by-reference-in-javascript)
+[Pass objects by values? (SO)](https://stackoverflow.com/questions/7574054/javascript-how-to-pass-object-by-value) <br>
+
+### `this` keyword 
+[this keyword and self (Udemy)](https://www.udemy.com/understand-javascript/learn/v4/t/lecture/2237526?start=0) <br>
+[this keyword (SO)](https://stackoverflow.com/questions/3127429/how-does-the-this-keyword-work) <br>
+
+### Arguments 
+[Arguments and hoisting(Udemy)](https://www.udemy.com/understand-javascript/learn/v4/t/lecture/2237528?start=0) <br>
+
+### Automatic Semicolon Insertion
+[Dangers of not using your own semicolon and relying on syntax parsers](https://www.udemy.com/understand-javascript/learn/v4/t/lecture/2237538?start=0)
+
