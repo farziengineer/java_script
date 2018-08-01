@@ -36,3 +36,13 @@ JSON is inspired by JavaScript Object Literal. <br>
 ### Automatic Semicolon Insertion
 [Dangers of not using your own semicolon and relying on syntax parsers](https://www.udemy.com/understand-javascript/learn/v4/t/lecture/2237538?start=0)
 
+### Whitespaces
+[whitespaces](https://www.udemy.com/understand-javascript/learn/v4/t/lecture/2237604?start=0)
+
+### IIFE
+[IIFE ](https://www.udemy.com/understand-javascript/learn/v4/t/lecture/2237540?start=0)
+[Why use IIFE](https://stackoverflow.com/questions/37021349/benefit-of-immediately-invoked-function-expression-iife-over-a-normal-function)
+
+### Closure
+[Closue (SO)](https://stackoverflow.com/questions/111102/how-do-javascript-closures-work)
+
