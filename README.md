@@ -44,5 +44,7 @@ JSON is inspired by JavaScript Object Literal. <br>
 [Why use IIFE](https://stackoverflow.com/questions/37021349/benefit-of-immediately-invoked-function-expression-iife-over-a-normal-function)
 
 ### Closure
-[Closue (SO)](https://stackoverflow.com/questions/111102/how-do-javascript-closures-work)
+[Closue (SO)](https://stackoverflow.com/questions/111102/how-do-javascript-closures-work) <br>
+`setTimeout  asynchronous in that it breaks the synchronous flow, but it's not actually going to execute concurrently/on a separate thread.` <br>
+[setTimeout using closures](https://stackoverflow.com/questions/19626680/is-settimeout-a-good-solution-to-do-async-functions-with-javascript)
 
