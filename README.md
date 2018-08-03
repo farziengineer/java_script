@@ -1,5 +1,33 @@
 # JAVASCRIPT
 ### Useful Links
+### Data types 
+[What is immutable in JS ?](https://stackoverflow.com/questions/3200211/what-does-immutable-mean) <br>
+Objects are copied by reference in JS. <br>
+```javascript
+// The primitive data type String is stored as a value
+var person = "Kobe";  
+var anotherPerson = person; // anotherPerson = the value of person
+person = "Bryant"; // value of person changed
+
+console.log(anotherPerson); // Kobe
+console.log(person); // Bryant
+``` 
+<br>
+
+```javascript
+var person = {name: "Kobe"};
+var anotherPerson = person;
+person.name = "Bryant";
+
+console.log(anotherPerson.name); // Bryant
+console.log(person.name); // Bryant
+```
+
+[Everything about JS object](http://javascriptissexy.com/javascript-objects-in-detail/) <br>
+
+
+
+
 [When is JavaScript synchronous?](https://stackoverflow.com/questions/2035645/when-is-javascript-synchronous) <br>
 [Static typed vs Dynamic typed languages](https://stackoverflow.com/questions/1517582/what-is-the-difference-between-statically-typed-and-dynamically-typed-languages)(See the answer by Akavall) <br>
 [JavaScript primitive datatyped](https://www.w3schools.com/js/js_datatypes.asp) <br>
