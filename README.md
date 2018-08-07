@@ -81,3 +81,7 @@ JSON is inspired by JavaScript Object Literal. <br>
 [Classical VS Prototypal Inheritance](https://www.udemy.com/understand-javascript/learn/v4/t/lecture/2237552?start=0) <br>
 [Function Constructors](https://www.udemy.com/understand-javascript/learn/v4/t/lecture/2237568?start=0)
 
+### JS Namespace pollution
+[What is namespace pollution(video)](https://www.youtube.com/watch?v=Mj9kDbweZ8k) <br>
+[How to create namespaces](https://www.youtube.com/watch?v=9p-uDkWqqKU) <br>
+
